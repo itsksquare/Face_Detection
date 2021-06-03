@@ -2,6 +2,7 @@
 
 Just a simple Face Detection project I learnt.
 
+[Live Example](https://itsksquare.github.io/Face-Detection/)
 <br>
 <br>
 <br>
